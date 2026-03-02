@@ -49,8 +49,8 @@ Abdul_BSCS22031_03/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/moiz200125/Pakistan-History-Chatbot.git
+cd Pakistan-History-Chatbot
 ```
 
 ### 2. Install dependencies
